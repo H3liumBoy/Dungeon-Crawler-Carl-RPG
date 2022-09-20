@@ -1,0 +1,3 @@
+Goblin Shamanka
+
+In case you’re wondering, Shamanka is just a fancy way of saying female shaman. Goblin Shamans are the leader class of all goblin clans, second only to the War Chieftain or, more rarely, the Goblin Warlord. They are without humor and are said, as part of their training, to have to pick two of the following three actions in order to graduate Shamanka University: they have to fuck, cook, and/or eat their own parents. Most don’t pick cook. And if that wasn’t messed up enough, they specialize in Anguish Magic, a dark magic school designed to focus and enhance damage from other attacks.
