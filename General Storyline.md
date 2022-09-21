@@ -1,17 +1,77 @@
 # Storyline
 
 
+## Book 1: Dungeon Crawler Carl
+Carl steps outside in the middle of a winter night, to retrieve his ex-girlfriend's cat Donut — and every man-made structure suddenly collapses, with a broadcast message explaining that the interstellar Syndicate is taking all the materials in the world, and inviting the survivors to enter the World Dungeon, battling their way through eighteen floors and being televised all the way, if they want to reclaim the planet. Carl enters the Dungeon rather than face exposure and starvation, and narrowly survives the trip to a tutorial guild, where Donut is given increased intelligence and the ability to speak as a reward for being the first cat in the Dungeon, becoming a Dungeon Crawler in her own right. She turns out to be self-important and obsessed with her image, insisting on leading the party and renaming it to The Royal Court of Princess Donut, but the two of them feel a degree of loyalty and kinship to each other.
 
-## Floor 1
+They begin killing monsters, including Neighborhood Bosses, to gain levels; the system AI rewards Carl with equipment that gives valuable bonuses to physical combat but requires him to remain barefoot, while Donut gets princess-ly gear such as a tiara and becomes a potent mage. Carl also receives a tattoo that makes goblins not automatically hostile, allowing him to purchase a large amount of explosives from them, and unintentionally setting up his image as a complete lunatic.
 
+The two of them also encounter the darker side of humanity, when they meet Frank Q and Maggie My, who are hunting other crawlers for experience and loot. Carl and Donut escape and set a trap for them, but Frank and Maggie survive.
 
-## Floor 2
+By the time the stairwells to the second floor open up, several days later, and Carl and Donut descend, less than half of the original millions of crawlers are still alive.
 
+On the second floor, the Royal Court encounters a group of people from Meadow Lark retirement village, who were brought into the Dungeon by their carers, and Carl lends a hand. Unfortunately, one of them, suffering from dementia or a similar condition, urinates in the hallways and triggers the release of an immensely powerful Rage Elemental as a punishment; Carl leads it on a wild chase and kills it via Loophole Abuse, which later appears on the recap broadcast visible to crawlers and a galactic audience. Having gained some visibility, Carl and Donut are temporarily pulled out of the dungeon to appear on a television-show-equivalent, where they embarrass a ruler of the porcine Skull Empire and gain his enmity.
 
-## Floor 3
+After defeating a boss by crushing it underfoot and satisfying the AI's foot fetish, they also get an opportunity to obtain a pet. At Donut's urging, they choose a bird-like mongoliensis, nicknamed Mongo, that later turns out to be a velociraptor.
 
-## Floor 4
+Unlike on the first floor, the stairway downward is guarded by a Borough Boss. Carl works with the able-bodied Meadow Lark staff to trap and kill it, and they are able to descend, including the mysterious Agatha and her shopping trolley. This gives them access to race and class selection, allowing the Meadow Lark residents to overcome their physical limitations.
 
-## Floor 5
+---
 
-## Floor 6
+## Book 2: Carl's Doomsday Scenario
+Carl chooses the Primal race, leaving his appearance unchanged but reducing his stats in exchange for allowing him to train any skill beyond normal limits, and the Compensated Anarchist class, enhancing his use of explosives. Donut remains a cat on principle, and chooses the Former Child Actor class, which lets her choose a temporary class on each floor, and which turns their tutorial guide NPC, Mordecai, into a manager who will help them on an ongoing basis. Mordecai is annoyed by the extra responsibility, but his knowledge of past Dungeons, and of alchemy, is helpful.
+
+The third floor changes from corridors to an open world full of NPC towns and villages. The Royal Court becomes inadvertently entangled in the machinations of a TV series being recorded on the floor, but is able to evade a cinematic death in exchange for the promise of Carl's cooperation in a later broadcast on the ninth floor. They also pick up a third party member, Katia, who was previously part of a larger group, but was separated from them by the floor transition; the party leader, Hekla, gets the Court's agreement to look after Katia until they can reconnect. Katia has the Doppelganger race, letting her reshape her body almost at will, and is initially very timid and under-levelled, but begins to catch up.
+
+Another out-of-Dungeon televised appearance then ends with retaliation by the Skull Empire, which attempts to shoot down their broadcast trailer. Last-minute technical difficulties, however, resulted in a swap, and the attack instead kills a famous singer, resulting in widespread uproar throughout the galaxy.
+
+The Court takes up an in-game quest to investigate a number of missing persons, and traces them to the mayor of the nearby town, who has been gathering magic and preparing a huge ritual spell. Killing the mayor destabilizes the soul crystal containing the magic, but Carl is able to place it in his inventory before it can explode, and they evacuate the floor before the leftover magic can kill them.
+
+In the aftermath, they're pulled out for another show, where they learn that the AI tried to reward them for their creative problem-solving by granting Celestial-tier loot boxes to everyone involved. Unfortunately, Borant Corporation blocked the reward to avoid paying ruinous taxes, and only one box was successfully opened (by formerly unremarkable crawler Quan Ch). They also discover that both Carl and Donut are now on the top ten list, with bounties on their heads.
+
+---
+
+## Book 3: The Dungeon Anarchist's Cookbook
+The fourth floor, "The Iron Tangle", gives them access to purchase a shared living space, and the AI, annoyed by Borant's interference, gives them generous vouchers for it, enabling them to purchase upgrades such as beds that grant rapid invigoration, and an alchemical workbench for Mordecai. The floor itself is a tangle of hundreds of railway lines with trains full of monsters; working with other crawlers over chat, Carl determines that the stairs are all at stations before the crawlers get access to the trains, accessible only by passing through the portals at the end of each line, reaching the trainyard, and boarding a fresh train.
+
+Carl also receives a fan-sponsored loot box that lets him take his pick of various rewards, and he is fortunate enough to choose a book that turns out to be the disguised Dungeon Anarchist's Cookbook, containing secret notes from its owners in past crawls. Armed with this knowledge, Carl plans to strike out at the organisations responsible for the crawls, aiming to "burn it all down" and avenge Earth. Unfortunately, the fan box presenter is an old enemy of Mordecai, and Mordecai attacks him and gets banished from the Dungeon for several days. Carl is also unable to reveal the Cookbook's existence, or he will lose access to it, which requires him to get creative about justifying the source of his knowledge — such as the oversized "backpack" that he makes for Katia, allowing her to equip a large amount of steel and incorporate it into her transformation, which he claims was just an idea.
+
+Frank Q tracks down Carl in a club, having separated from Maggie, and reveals that their daughter was killed in Carl's trap. She used a magic Ring of Divine Suffering to mark Carl for death (which would have granted her a bonus stat point), with the drawback that she was unable to heal herself when he escaped — and she was the one to loot the corpse that Carl booby-trapped, fatally injuring her. Frank has now lost his will to live, and gives Carl the ring in hopes that Carl will get himself killed too.
+
+In another club visit, Donut is attacked by an assassin, and kills him in self defence, receiving a player-killer skull and hunt tickets that promise rewards for killing Carl and Katia. She disposes of the tickets quietly, but Katia finds out she had them and gets worried.
+
+The Royal Court then makes contact with Hekla's party again, to Katia's delight. However, Hekla has her sights set on recruiting Donut, and attempts to sacrifice Katia in a gambit to get Carl killed as well and leave Donut alone. The ploy fails when Carl reacts more calmly and rationally than she expected (based on his depiction on the recap broadcasts). Donut is able to save Katia, and Hekla is killed in the ensuing confrontation, causing the breakup of her party (which was entirely dependent on her magical crossbow). Katia is greatly upset, but remains with the Royal Court.
+
+Before the floor ends, the Court is able to coordinate the rescue of many other crawlers who were stranded and unable to pass through the rail portals. When they go down the stairs, Quan Ch has entered the top ten list, having used his Celestial item to farm bosses on the fourth floor, but he caused a great deal of disruption and mayhem for other crawlers in the process.
+
+---
+
+## Book 4: The Gate of the Feral Gods
+The fifth floor divides the crawlers into hundreds of large impenetrable "bubbles", each containing a complete ecosystem and requiring the completion of four quadrants to pop it and access the stairs. In the process of capturing the air castle from their first quadrant, Carl learns of the existence of a Celestial-tier artifact, the Gate of the Feral Gods, in three scattered pieces. The Gate has the ability to open portals through space, but will unleash a feral god from the Nothing when the portal closes. Mordecai insists that even with the Gate, they would not be able to skip floors; however, Carl still wants it.
+
+Partway through clearing the quadrants, Carl and Donut are pulled out of the Dungeon by their racist and hostile media manager, Loita, to film a product placement ad. Carl combines some of the Cookbook's information with his own creativity to kill Loita with a booby trap and Make It Look Like an Accident. He is investigated by a Syndicate liaison, who suspects it was deliberate, but nothing can be proved.
+
+After clearing three quadrants, Carl is able to complete the Gate, but is forced to use it to escape from otherwise certain death. When it closes, it unleashes Orthrus, a tremendous puppy who wreaks havoc in the bubble. The Royal Court is able to send Orthrus home, and pop their bubble in the process, but Quan Ch tries to interfere, and in order to avoid the puppy's death (with accompanying divine retribution), Carl becomes a worshipper of Emberus and summons his help, before cutting Quan's arm off, driving Quan to retreat through the stairwell.
+
+The Royal Court then activates stage one of their Gate plan, using the Gate to evacuate hundreds of crawlers who were trapped in their bubbles with time running out, unleashing dozens of feral gods who are then trapped inside the bubbles. They also evacuate a community of changeling NPCs to the fifth floor, using a flying house obtained in the first quadrant. However, other deities are sometimes summoned alongside the feral ones; in the process of dealing with them, Carl receives an emergency benefactor box, revealing that he has unexpectedly powerful allies outside the Dungeon. Agatha, whom Carl suspects to be a Valtay alien rather than a human, turns up and goes down the stairs, despite being at a vastly lower level than other crawlers, and offering no explanation.
+
+In the next stage, the Court prepares to configure the Gate to release a feral god (and be consumed in the process) on the ninth floor, where the faction armies are training and preparing for the crawlers to arrive. Maggie My appears, having killed Frank and possessed the body of another crawler, and attempts to disrupt the Gate, but Carl uses a potion (made by Mordecai with an ingredient from his benefactor) to break her possession and kill her. He then reveals that the Gate she disrupted was a fake, and Katia (who has grown to a very high level by now and is powerful in her own right) has taken the real Gate under the ocean. Instead of releasing a feral god on the Skull Empire faction camp, the portal floods the ninth floor capital city with water full of sharks, jellyfish, and explosives, killing many of the armies who had retreated from the field, and wrecking the supply lines for the survivors. The last changeling, Juice Box, also goes through (in an aquatic form) to rally the ninth floor NPCs.
+
+Carl is elevated to number one on the top ten list. Immediately before descending the stairs, he holds up the Ring of Divine Suffering, which allows marking crawlers for death, and shouts a challenge to the sky for all the sixth floor hunters to Bring It.
+
+---
+
+## Book 5: The Butcher's Masquerade
+When they descend to the sixth floor, "The Hunting Grounds", the Syndicate liaison appears again, pulls Carl out, and pressures him to give up the Gate, as it is an extinction-level threat for all crawlers. Carl is reluctant, but consults with a lawyer and cuts a deal, gaining access to extra minions with valuable spells, instead of facing "acceleration".
+
+Carl's class specializes for the sixth floor; he chooses to enhance his explosives skills. The crawlers are then given thirty hours before the hunters will be unleashed upon them to kill them for sport and loot their equipment to sell to the factions. Carl makes a preemptive strike on the hunter city, killing several of them, but is unable to kill their mayor, Vrah, who lost her sister and swears a vendetta against him. Donut does, however, manage to kill the mayor of a different town, being awarded the role herself.
+
+Donut's town is attacked by hunters, but they're relatively weak, and Tsarina Signet, protagonist of the "Vengeance of the Daughter" show from the third floor, turns up again to help kill them. Carl and Donut travel with Signet to help ransack a fortress, and are pulled out of the Dungeon to meet Donut's former owner, who turns out to have survived; Donut takes the opportunity to castigate and reject her for her treatment of both Donut and Carl.
+
+Carl then has a second appearance, without Donut, at "CrawlCon", and becomes aware that a group of hunters and Lucia Mar are waiting to ambush him as soon as he returns to the Dungeon. After brainstorming with the audience, he succeeds in evading the trap, killing several mantids, and infecting Vrah with a venereal disease, which angers her entire hive.
+
+Prepotente, another top ten crawler, then accidentally marks his close friend and mother figure, Miriam Dom, with a Ring of Divine Suffering, due to magical interference. Miriam chooses to sacrifice herself so that he can live, but as she is a vampire, this results in all other vampires on the floor being freed from vampirism — which results in a large number of undead suddenly becoming leaderless and turning into Odious Creepers. Despite the Crawlers' best efforts, the Creepers are not all exterminated before nightfall, and launch a wave of deadly brambles that steadily fills the entire map, pushing the surviving hunters and Crawlers into the elves' castle, where the Butcher's Masquerade will be held.
+
+The Masquerade is a party theoretically meant to encourage peace, by bringing enemies together and requiring them to get along for an evening, with the first to commit violence being cast into the Nothing and bringing the host's wrath on everyone. However, both the hunters and the invited (top fifty) Crawlers make plans to slaughter the other side as soon as it ends. The seal is ultimately broken by Signet, who has come to grips with her NPC status, so that the Crawlers can escape before they're entirely surrounded by thorns and mantids. One of Carl's minions then uses a powerful spell to transport the castle and all its NPCs directly to the ninth floor, leaving the surviving Crawlers and hunters to battle to the death; many Crawlers are killed, but all the hunters die, along with the boss.
+
+Prepotente joins Carl and Donut at the start of the seventh floor, which is a giant race through glassy tunnels. However, combining several items from sponsors, Prepotente is able to exploit a weakness in the starting room, causing the entire level to crumble to dust and drawing every Crawler into the stairwells in preparation for the eighth floor.
