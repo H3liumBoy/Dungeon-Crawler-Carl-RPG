@@ -1,5 +1,7 @@
 # Storyline
 
+SRC: https://tvtropes.org/pmwiki/pmwiki.php/Recap/DungeonCrawlerCarl#:~:text=Book%201%3A%20Dungeon%20Crawler%20Carl&text=Carl%20enters%20the%20Dungeon%20rather,Crawler%20in%20her%20own%20right.
+
 
 ## Book 1: Dungeon Crawler Carl
 Carl steps outside in the middle of a winter night, to retrieve his ex-girlfriend's cat Donut — and every man-made structure suddenly collapses, with a broadcast message explaining that the interstellar Syndicate is taking all the materials in the world, and inviting the survivors to enter the World Dungeon, battling their way through eighteen floors and being televised all the way, if they want to reclaim the planet. Carl enters the Dungeon rather than face exposure and starvation, and narrowly survives the trip to a tutorial guild, where Donut is given increased intelligence and the ability to speak as a reward for being the first cat in the Dungeon, becoming a Dungeon Crawler in her own right. She turns out to be self-important and obsessed with her image, insisting on leading the party and renaming it to The Royal Court of Princess Donut, but the two of them feel a degree of loyalty and kinship to each other.
