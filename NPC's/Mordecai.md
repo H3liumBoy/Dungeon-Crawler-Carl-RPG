@@ -23,6 +23,17 @@
 |highest_stat=Unknown
 }}
 
+
+Mordecai – Rat Hooligan. Level 50.
+
+Guildmaster of this guildhall.
+
+This is a Non-Combatant NPC.
+
+Hooligans are the smartest, fastest, and ugliest of the Rat-Kin race. While not as roided-out as a Rat Brute, or as Imma fireball yo ass as a Rat Shaman, Rat Hooligans offer the best of both worlds. They are physically strong, and they have a decent grasp of magic.
+
+
+
 He is a level 50 Guild Master and currently [[Donut|Princess Donut]]'s [[Manager Benefit|Manager]]. He is currently on his last tour of crawl duty.
 
 == Description ==
