@@ -5,10 +5,10 @@
 
 ![image](https://user-images.githubusercontent.com/13347039/191822330-3dc9c092-197c-416f-92dd-30798cea13c6.png)
 
-## Were-beaver
+## Were-beaver Caster
 **A.I. Description:**
 
-_Were-beaver. humanoid.
+_Were-beaver Caster. humanoid.
 A short and stout humanoid beaver like person. A pair of buck teeth jutted from his rodent mouth. Speak with a noticeable lisp. It's soooo adorable, You almost would mind it cuddling you to death. Almost..._
 ___
 **Appearance:**
