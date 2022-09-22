@@ -1,4 +1,4 @@
-#### dinosaurus reppelent potion.
+#### Dinosaurus Repellent Potion.
 *Potion, Rare (Single use)*
 
 ***A.I. Description:***
