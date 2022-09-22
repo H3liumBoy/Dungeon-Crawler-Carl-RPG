@@ -9,7 +9,7 @@
 **A.I. Description:**
 
 _Were-beaver Caster. humanoid.
-A short and stout humanoid beaver like person. A pair of buck teeth jutted from his rodent mouth. Speak with a noticeable lisp. It's soooo adorable, You almost would mind it cuddling you to death. Almost..._
+A short and stout humanoid beaver like person. A pair of buck teeth jutted from his little rodent mouth. Speaks with a noticeable lisp. It's soooo adorable, You almost would mind it cuddling you to death. Almost..._
 ___
 **Appearance:**
 
