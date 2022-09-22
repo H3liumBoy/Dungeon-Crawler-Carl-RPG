@@ -24,7 +24,7 @@ ___
 **Languages**            : Syndicate Standard and Goblin.  
 **Challenge**            : 1/2 (100 XP)
 ___
-***Dervish.*** Due to it high prowess with the sword he can use a bonus action to take the Dash or Disengage action.
+***Dervish.*** Due to it high prowess with the sword he can use a bonus action to take the Dash or Disengage action.   
 ***Sword Dancing.*** He can make a performance check to dance with his blades. He is considered proficient with it and the check uses DEX as its attribute.
 
 ### Actions
