@@ -16,6 +16,7 @@ ___
 🛡️ **Armor Class** : <Num> (chain mail, shield)    
 ❤️‍🩹 **Hit Points**  : <Num> (1d4 + 5)    
 🏃 **Speed**       : <Num> ft.    
+👨‍🎓 **Proficiency** : +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
