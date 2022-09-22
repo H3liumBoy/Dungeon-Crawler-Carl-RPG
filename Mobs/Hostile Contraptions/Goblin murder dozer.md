@@ -1,11 +1,10 @@
 ![image](https://user-images.githubusercontent.com/13347039/191731788-31c09c4c-71e9-4499-860b-162833e51966.png)
 
-## goblin murder dozer
+## Goblin Murder Dozer
 **AI Description:**
 
-*Goblin Murder Dozer. Contraption.
-
-A goblin-built, steam-powered machine designed to mow down and slaughter unsuspecting dungeon crawlers. I hope you’re up to date with your tetanus shots.*
+_Goblin Murder Dozer. Contraption.
+goblin-built, steam-powered machine designed to mow down and slaughter unsuspecting dungeon crawlers. I hope you’re up to date with your tetanus shots._
 ___
 **Armor Class** :: 17 (chain mail, shield)
 **Hit Points**  :: 75(1d4 + 5)
