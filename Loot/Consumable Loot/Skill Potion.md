@@ -1,6 +1,9 @@
 #### Skill Potion.
 *Potion, Rare (Single use)*
 
+![download](https://user-images.githubusercontent.com/13347039/192364644-0a0c2d4f-4247-4edc-97fb-49faca610e46.jpg)
+
+
 ***A.I. Description:***
 
 _Drinking this adds a single level to the Determine Value skill._
