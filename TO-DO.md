@@ -1,5 +1,5 @@
-[[Astral Paw]]
-[[Bang Bro]]
+
+
 [[Bitch, What?]]
 [[Black Nimbus]]
 [[Clockwork Triplicate]]
@@ -37,7 +37,6 @@
 [[Enchanted Repeating Crossbow of the Scavenger Mother of Mothers]]
 [[Enchanted Right Back Atcha Personal Shield]]
 [[Enchanted Shade Gnoll Riot Forces Crowd Control Shield]]
-[[Enchanted Shade Gnoll Riot Forces Telescoping Crowd Control Baton]]
 [[Enchanted Spiked Kneepads of the Shade Gnoll Riot Forces]]
 [[Enchanted Tiara of Mana Genita]]
 [[Enchanted Toe Ring of the Leprous Bandit]]
@@ -66,7 +65,7 @@ Drinking this adds a single level to the Determine Value skill. Hopefully now yo
 [[Poison Antidote]]
 
 ## Scrolls
-[[Scroll of waterbreathing]]
+
 
 ## Magic Thomes
 - [[Tome of Magic Missile]]

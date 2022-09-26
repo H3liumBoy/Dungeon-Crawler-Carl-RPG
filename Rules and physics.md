@@ -1,4 +1,4 @@
-Rules and physics
+# Rules and physics
 
 -	You can’t open boxes unless you’re in a safe zone.
 -	patrons are the only ones who can send what are called Benefactor Boxes. Those contain the rarest items. So even a bronze Benefactor Box is better than a plain, Gold Adventurer box. 
@@ -7,7 +7,7 @@ Rules and physics
 Damaging a crawler inside a saferoom will
 	First offence - teleport te attacker to a random place within the XXX meters out of the saferoom
 	Second offence - put the attacker in a 'pause state' for XXX time
---->	Third offence - *Dont remember, need to check*
+	 Third offence - Get teleported to the nearest monsternest
 
 
 - You cannot read/ learn tomes if the spell costs more manapoints then you have
