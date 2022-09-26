@@ -1,5 +1,10 @@
-{{Character info
-|image1=[[File:Dungeon Crawler Carl.jpeg|220px|center|thumb|alt=Carl|From cover of Dungeon Crawler Carl Book 1]]
+# Carl
+
+![image](https://user-images.githubusercontent.com/13347039/192376568-7ed4e8af-d884-4373-9bc9-fe840e8a5713.png)
+
+
+
+Name:
 |crawler_#=4,122
 |age=27
 |height=6'3"
