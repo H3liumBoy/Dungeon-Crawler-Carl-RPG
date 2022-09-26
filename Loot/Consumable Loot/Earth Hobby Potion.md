@@ -1,5 +1,8 @@
 # Earth Hobby Potion
 
+![download](https://user-images.githubusercontent.com/13347039/192364538-be1181ca-fa05-4be6-9540-93ef348a9f76.jpg)
+
+
 ***A.I. Description***
 ```
 Per subsection 1256-C of the Indigenous Species Protection Act, this particular reward is required by the Syndicate Government to be awarded to all Crawlers who have chosen a domestic class.
