@@ -1,5 +1,5 @@
 ## Potions
-- dinosaurus reppelent potion
+
 - Potion of Healing.
 - Potion of Mana.
 - Weapon Oil: Weeping Wound.
