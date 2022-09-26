@@ -24,7 +24,7 @@
 |followers=142 Quadrillion
 |favourites=23 Quadrillion
 |gear=
-*[[Carl's Xistera]]
+*[[Xistera]]
 *[[Drakea’s Enchanted Kerchief of Chaos.]]
 *[[Enchanted Anarchist’s Battle Rattle]]
 *[[Enchanted Auto Buckler of the Peach Pit]]
@@ -44,7 +44,7 @@
 *[[Bang Bro]]
 *[[Fear]]
 *[[Heal]]
-*[[Ping]]
+*[[PING]]
 *[[Protective Shell]]
 *[[Wisp Armor Spell]]
 *[[Black Nimbus]]

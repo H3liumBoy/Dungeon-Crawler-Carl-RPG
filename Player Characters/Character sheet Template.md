@@ -1,32 +1,7 @@
 Name:
-
 Age:
-
 Crawler name:
-
 Crawler #:
-
-13,000,000 total crawlers Dice needed: Quarter, D4, D8, and D10
-
-Roll D8 4 Roll D10 to the number of the D8 0751 Crawler #751
-
-Quarter and D4 example
-
-D8: 8
-
-Call heads or tails. Call right the first number is 0 call wrong it's 1
-
-Quarter: correct 0
-
-D4: 4 (0)
-
-D10 x 6:
-
-140355
-
-00140355
-
-Crawler #140355
 
 Level: 1
 
