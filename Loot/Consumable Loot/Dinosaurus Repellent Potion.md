@@ -1,6 +1,9 @@
 # Dinosaurus Repellent Potion.
 *Potion, Rare (Single use)*
 
+![download](https://user-images.githubusercontent.com/13347039/192362508-3fc87a29-23ad-46c7-980c-a9db3e4472dd.jpg)
+
+
 ***A.I. Description:***
 
 _Potion of Dinosaur Repellent._
