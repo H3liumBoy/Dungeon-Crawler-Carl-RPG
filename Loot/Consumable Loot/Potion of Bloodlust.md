@@ -1,5 +1,8 @@
 # Potion of Bloodlust
 
+![download](https://user-images.githubusercontent.com/13347039/192363711-491d1587-8f93-4369-b6eb-f331ab4c3468.jpg)
+
+
 ***A.I. Description***
 ```
 It’s like giving yourself a PCP enema after spending the day riding the Night Train Express.
