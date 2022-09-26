@@ -1,8 +1,61 @@
+[[Astral Paw]]
+[[Bang Bro]]
+[[Bitch, What?]]
+[[Black Nimbus]]
+[[Clockwork Triplicate]]
+[[Fear]]
+[[Heal]]
+[[Heal Critter]]
+[[Hole]]
+[[Laundry Day]]
+[[Legionnaires of the Damned]]
+[[Magic Missile]]
+[[Minion Army]]
+[[Mute]]
+[[Protective Shell]]
+[[Puddle Jumper]]
+[[Rigorous]]
+[[Second Chance]]
+[[Skedaddle]]
+[[Torch]]
+[[Tripper]]
+[[Twinkle Toes]]
+[[Wall of Fire]]
+[[Wisp Armor Spell]]
+
+## Items
+[[Enchanted Auto Buckler of the Peach Pit]]
+[[Enchanted BigBoi Boxers]]
+[[Enchanted Fang Caps of the Expectorating Tizheruk]]
+[[Enchanted Fur Brush of the Ecclesiastic]]
+[[Enchanted Mongoliensis Saddle]]
+[[Enchanted Necklace of Haute Bourgeoisie]]
+[[Enchanted Night Wyrm’s Ring of Divine Suffering]]
+[[Enchanted Nipple Ring of the Defiler]]
+[[Enchanted Nipple Ring of the Superior Fire Demon’s Hand Maiden]]
+[[Enchanted Pedicure Kit of the Sylph]]
+[[Enchanted Repeating Crossbow of the Scavenger Mother of Mothers]]
+[[Enchanted Right Back Atcha Personal Shield]]
+[[Enchanted Shade Gnoll Riot Forces Crowd Control Shield]]
+[[Enchanted Shade Gnoll Riot Forces Telescoping Crowd Control Baton]]
+[[Enchanted Spiked Kneepads of the Shade Gnoll Riot Forces]]
+[[Enchanted Tiara of Mana Genita]]
+[[Enchanted Toe Ring of the Leprous Bandit]]
+[[Enchanted War Gauntlet of the Exhalted Grull (Right-handed)]]
+[[Enchanted Wrestling Belt of the Great Gorgo]]
+[[Goblin Pass]]
+[[Gorgon Marital Aid]]
+[[Platinum Sharpening Stone]]
+[[Prism Industries Capacitating and Focusing Goggles]]
+[[Rev-Up Toilet-Grade Moonshine]]
+[[Silver Ring]]
+[[Talisman of the Slate Butterfly]]
+[[The Goo-Inator 3000]]
+[[Upgrade Patch]]
+
 ## Potions
 
-- Potion of Healing.
-- Potion of Mana.
-- Weapon Oil: Weeping Wound.
+- [[Weapon Oil: Weeping Wound]]
 - Skill Potion.
 AI Description:
 ```
@@ -10,28 +63,25 @@ Drinking this adds a single level to the Determine Value skill. Hopefully now yo
 ```
 
 ## Antidote
-Poison Antidote
+[[Poison Antidote]]
 
 ## Scrolls
-Scroll of waterbreating
+[[Scroll of waterbreathing]]
 
 ## Magic Thomes
-- Tome of Magic Missile
-- Tome of Wisp Armor. 
-- Tome of Minion Army
-```
-a spell that cost 50 spell points to cast. It caused hostile enemies to fight for you instead of against you.
-```
+- [[Tome of Magic Missile]]
+- [[Tome of Wisp Armor]]
+
 
 ## Food
-Crawler Biscuits
+[[Crawler Biscuits]]
 
-Regular pet biscuits
+[[Regular pet biscuits]]
 ```
 Regular Biscuits feed pet-based classes for a full day. Pets find them delicious. They smell them, and they’ll just gobble them up.
 ```
 
-enhanced pet biscuit
+[[enhanced pet biscuit]]
 ```
 Properties:
 Enhanced Pet Biscuit.
@@ -46,11 +96,11 @@ Enhanced treats have over 100 different possible effects. Half of them are good.
 
 ## Misc
 
-Torch
-Dynamite
-Lighter
+[[Torch]]
+[[Dynamite]]
+[[Lighter]]
 
-Goblin Pass
+[[Goblin Pass]]
 
 AI Description:
 ```
@@ -68,7 +118,7 @@ The Goblin Pass took the form of a goblin-shaped skull.
 When activated, instead of adding itself to your inventory, it flies and smacked up against your left inner forearm. You are still wearing yourclothes, but you can feel it burning against your skin, like you are being branded. The logo also appears on the exterior of your clothes. The pain quickly abated, and your clothes are otherwise undamaged.
 ```
 
-Desperado Pass.
+[[Desperado Pass]]
 AI Description:
 ```
 Desperado Pass.
@@ -79,3 +129,21 @@ This pass allows access to the Desperado Club.
 
 Warning: Holding a Desperado Pass negates the ability to obtain a Vanquisher pass.
 ```
+
+### Skills
+
+[[Backfire Skill]]
+[[Bomb Surgeon Skill]]
+[[Character Actor]]
+[[Cockroach]]
+[[Detect Trap Skill]]
+[[Escape Plan Skill]]
+[[IED]]
+[[Iron Punch]]
+[[Light on Your Feet]]
+[[Marked For Death]]
+[[Powerful Strike]]
+[[Pugilism Skill]]
+[[Smush]]
+[[Talon Strike]]
+[[Tripper]]
