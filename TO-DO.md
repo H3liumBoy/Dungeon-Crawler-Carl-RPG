@@ -1,4 +1,16 @@
+Bogus cries? book 5
 
+### Mobs
+[[Gehenna Bramble]]
+
+
+### Debufs
+[[Debuf of the refound hope]]
+### Gods
+
+[[Juwatta]]
+
+### Spells
 
 [[Bitch, What?]]
 [[Black Nimbus]]
@@ -43,7 +55,9 @@
 [[Enchanted War Gauntlet of the Exhalted Grull (Right-handed)]]
 [[Enchanted Wrestling Belt of the Great Gorgo]]
 [[Goblin Pass]]
+[[Nipplering of the quatterFall]]
 [[Gorgon Marital Aid]]
+[[Ring of devine suffering]]
 [[Platinum Sharpening Stone]]
 [[Prism Industries Capacitating and Focusing Goggles]]
 [[Rev-Up Toilet-Grade Moonshine]]
