@@ -1,0 +1,1 @@
+# Astrid asistent manager Desperado club
