@@ -11,3 +11,6 @@ Damaging a crawler inside a saferoom will
 
 
 - You cannot read/ learn tomes if the spell costs more manapoints then you have
+
+Item lifetime
+Items with a short shelf life  are to be taken immediately. A limited shelf life one is to be taken before the end of the floor.

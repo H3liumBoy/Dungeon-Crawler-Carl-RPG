@@ -1,4 +1,4 @@
-Bogus cries? book 5
+
 
 ### Mobs
 [[Gehenna Bramble]]
@@ -8,19 +8,9 @@ Bogus cries? book 5
 [[Debuf of the refound hope]]
 ### Gods
 
-[[Juwatta]]
 
 ### Spells
 
-[[Bitch, What?]]
-[[Black Nimbus]]
-[[Clockwork Triplicate]]
-[[Fear]]
-[[Heal]]
-[[Heal Critter]]
-[[Hole]]
-[[Laundry Day]]
-[[Legionnaires of the Damned]]
 [[Magic Missile]]
 [[Minion Army]]
 [[Mute]]
