@@ -2,7 +2,7 @@
 
 This adventure takes place in current day and time. It's start was an unannounced worldwide event and later became known as the transformation.
 
-It was a freezing cold winter night. For our players it happened around 01:00-ish. <Player names> were outside because <player storyline hook> and felt a slight tremble. When they looked up all buildings smashed to the ground with a deafening slam. Hell even cars and bus stops were all gone. A heavy gust of wind followed and dust went everywhere.
+It was a freezing cold Januari winter night . For our players it happened around 01:00-ish. <Player names> were outside because <player storyline hook> and felt a slight tremble. When they looked up all buildings smashed to the ground with a deafening slam. Hell even cars and bus stops were all gone. A heavy gust of wind followed and dust went everywhere.
 
 A couple random things remain. Like a bike rack. A stop sign was there, but the street sign next to it was gone.
 
@@ -45,6 +45,17 @@ If you have any additional questions, or you wish to file an appeal, such reques
 Thank you for being a part of the Syndicate. Have a great day.
 ```
 
-[Objective one]
+[Objective 1]
+**Find the nearest staircase entrance.**
 
-Find the nearest entrance
+```
+DM Info: 
+let the players mingle and explore their post appocalyptic surrooundings. You might want to concider implementing a "pressure" mechanic by having them freeze in X amount of time.
+
+After some exploring/ RP the players hear a horn blast and several spotlights will shine up into the air indicating dungeon entrance stairs.
+```
+
+You have been outside for a while, standing on the street in the blistering cold. The wind that has free range as all buildings have been reclaimed - *whatever that might mean* - chills you to the bone. You need to find shelter as soon as possible!
+
+
+Upon reaching the stairs, continue to [[Floor 1]]
