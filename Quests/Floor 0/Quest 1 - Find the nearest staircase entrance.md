@@ -1,0 +1,1 @@
+All players need to find and enter a staircase that leads to floor 1

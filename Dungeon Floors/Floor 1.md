@@ -30,4 +30,34 @@ Describe that upon opening their menu they are greeted with several notification
 
 > [!Achievement]
 Achievement unlocked: [[Achievement - Crazy Cat Lady]]
-Reward: Bronze [[Lootbox - Petbox]]
+Reward: Bronze [[Lootbox - Pet box]]
+
+
+> [!Achievement]
+Achievement unlocked: [[Achievement - Trailblazing Crazy Cat Lady]]
+Reward: Ledgendary [[Lootbox - Pet box]]
+
+
+
+> [!Achievement]
+Achievement unlocked: [[Achievement - Early Adopter]]
+Reward: Silver [[Lootbox - Adventurer Box]]
+
+> [!Achievement]
+Achievement unlocked: [[Achievement - Empty pockets]]
+Reward: Bronze [[Lootbox - Adventurer Box]]
+
+
+> [!Achievement]
+Achievement unlocked: [[Achievement - Why aren’t you wearing pants?]]
+Reward: Gold [[Lootbox - Apparel Box]]
+
+
+> [!Achievement]
+Achievement unlocked: [[Achievement - Unarmed combat]]
+Reward: Bronze [[Lootbox - Weapon Box]]
+
+
+> [!Achievement]
+Achievement unlocked: [[Achievement - Loner]]
+Reward: See achievement

@@ -45,8 +45,8 @@ If you have any additional questions, or you wish to file an appeal, such reques
 Thank you for being a part of the Syndicate. Have a great day.
 ```
 
-[Objective 1]
-**Find the nearest staircase entrance.**
+[[Quest 1 - Find the nearest staircase entrance]]
+
 
 ```
 DM Info: 
