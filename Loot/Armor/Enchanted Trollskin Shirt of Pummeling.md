@@ -12,7 +12,7 @@ The wearer of this shirt gains +7 to the Regeneration skill. In addition, all me
 ```
 -   +7 Regeneration Skill
 -   +3 Dexterity
--   All melee-based damage debuffs negated
+-   All melee-based damage debuffs negated 
 ```
 
 Upgrade slot 1x
