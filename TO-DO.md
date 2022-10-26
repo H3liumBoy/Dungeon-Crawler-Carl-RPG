@@ -5,7 +5,7 @@
 
 
 ### Debufs
-[[Debuff - Debuff of the refound hope]]
+
 ### Gods
 
 

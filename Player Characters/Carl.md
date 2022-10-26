@@ -50,6 +50,7 @@ Name:
 *[[Fear]]
 *[[Heal]]
 *[[PING]]
+[[Encore]]
 *[[Protective Shell]]
 *[[Wisp Armor Spell]]
 *[[Black Nimbus]]
